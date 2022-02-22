@@ -4,7 +4,8 @@
 2. Kliknij [File] w lewym górnym rogu, a następnie wybierz [Consult]
 3. Wybierz jeden z plików z rozszeżeniem ".pl".
 
-<b>Zadanie 1/</b>
+Zadanie 1/
+
 	Obraz 02
 
 	Plik obraz02.pl opisuje przy pomocy SWI-Prolog obraz obraz02.jpg.
@@ -37,6 +38,7 @@
 	- sameHelmet(X,Y) - wyświetli czy bohaterowie mają takie same hełmy
 
 Zadanie 2/
+
 	Dynastia 01
 	
 	Plik dynastia01.pl opisuje przy pomocy SWI-Prolog obraz dynastia01.jpg.
